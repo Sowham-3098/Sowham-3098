@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Sowham Bhuin</h1>
 <h3 align="center">A passionate competitive programmer & newbie developer from India..</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
