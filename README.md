@@ -32,8 +32,8 @@
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuinsowham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowham bhuin" height="30" width="40" /></a>
 <a href="https://fb.com/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sowham bhuin" height="30" width="40" /></a>
-<a href="https://instagram.com/@shutterbug_sowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shutterbug_sowham" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/creative cam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creative cam" height="30" width="40" /></a>
+<a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbug_sowham" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNV7z5JpuflEl8Rtx-IM3gw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creative cam" height="30" width="40" /></a>
 <a href="https://discord.gg/Sowham_18#0265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sowham_18#0265" height="30" width="40" /></a>
 </p>
 
