@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/sowham-bhuin/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Sowham Bhuin" width="150" height="30" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhuinsowham" target="blank"><img src="https://img.shields.io/twitter/follow/bhuinsowham?logo=twitter&style=for-the-badge" alt="bhuinsowham" /></a> </p>
 
 - 🌱 I’m currently learning **DSA,Web Development**
 
