@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuinsowham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowham bhuin" height="30" width="40" /></a>
-<a href="https://fb.com/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sowham bhuin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sowham bhuin" height="30" width="40" /></a>
 <a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbug_sowham" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNV7z5JpuflEl8Rtx-IM3gw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creative cam" height="30" width="40" /></a>
 <a href="https://discord.gg/Sowham_18#0265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sowham_18#0265" height="30" width="40" /></a>
@@ -51,6 +51,7 @@
 
 <h3 align="left">Others:</h3>
 <p align="left">
+  <a href="https://www.cloudskillsboost.google/public_profiles/1d6b43fc-4d4a-4917-951d-f3c0fae25c07" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="@bhuinsowham" height="40" width="40" /></a>
 <a href="https://dev.to/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sb_decoder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19515149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19515149" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sowham-3098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sowham-3098" height="30" width="40" /></a>
