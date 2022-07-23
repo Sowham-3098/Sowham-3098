@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/sowham-bhuin/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Sowham Bhuin" width="150" height="30" /></a> </p>
 
 
-- 🌱 I’m currently learning **DSA,Web Development**
+- 🌱 I’m currently learning **DSA,Kotlin**
 
 - 📫 How to reach me **sb2517@it.jgec.ac.in**
 <h3 align="left">Languages and Tools:</h3>
