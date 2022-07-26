@@ -19,7 +19,11 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS CODE" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.blender.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a><a href="https://www.canva.com/en" target="_blank" rel="noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Canva-app-logo-768x768.png" alt="Canva" width="40" height="40"/> </a></p>
+<a href="https://www.blender.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a><a href="https://www.canva.com/en" target="_blank" rel="noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Canva-app-logo-768x768.png"
+alt="Canva" width="40" height="40"/> </a>
+<a href="https://sparkar.facebook.com/ar-studio/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a"
+alt="Spark AR" width="40" height="40"/> </a>
+</p>
  
 
 
@@ -65,6 +69,7 @@
 <a href="https://dribbble.com/shutterbug_sowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shutterbug_sowham" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sowham3098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sowham3098" height="30" width="40" /></a>
 <a href="https://medium.com/@bhuinsowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhuinsowham" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sparkarhub/portfolios/ig/shutterbug_sowham/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a" alt="SparkAR" height="30" width="40" /></a>
 
 </p>
 
