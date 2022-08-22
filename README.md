@@ -25,6 +25,12 @@
 alt="Canva" width="40" height="40"/> </a>
 <a href="https://sparkar.facebook.com/ar-studio/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a"
 alt="Spark AR" width="40" height="40"/> </a>
+<a href="eyJ2ZXJzaW9uIjoiMS43LjEwIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS5cbiAqIHBsYXkua290bGlubGFuZy5vcmdcbiAqL1xuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/296/893/png-transparent-kotlin-hd-logo-thumbnail.png"
+alt="Kotlin" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio?gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMvhyxv6iwrq1nMMDI50GyH2fBG9iljGKBb43SUW9i_Ny0I43FFfsHYaAntSEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"
+alt="Kotlin" width="40" height="40"/> </a>
+
+
 </p>
  
 
