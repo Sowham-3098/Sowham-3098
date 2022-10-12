@@ -2,8 +2,10 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF16TW4w78Mug/profile-displaybackgroundimage-shrink_350_1400/0/1661528605780?e=1671062400&v=beta&t=bSAiyqnllND6Ytq4jnRAl-WaBGyknsLNjNhUU_QaIDo)
 
 <h1 align="center">Hi 👋, I'm Sowham Bhuin</h1>
-<h3 align="center">A passionate competitive programmer & newbie developer from India..</h3>
-<h3 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer+From+India;An+Aspiring+Web+Developer+From+India">
+</div >
+<h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 <img align="right" alt="Coding" width="400" src="output-onlinegiftools (1).gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowham-3098&label=Profile%20views&color=0e75b6&style=flat" alt="sowham-3098" /> </p>
