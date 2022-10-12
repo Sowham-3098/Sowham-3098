@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sowham Bhuin</h1>
 <h3 align="center">A passionate competitive programmer & newbie developer from India..</h3>
 <h3 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h3>
-<img align="right" alt="Coding" width="500" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
+<img align="right" alt="Coding" width="400" src="output-onlinegiftools (1).gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowham-3098&label=Profile%20views&color=0e75b6&style=flat" alt="sowham-3098" /> </p>
 
