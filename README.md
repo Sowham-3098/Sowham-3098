@@ -62,6 +62,7 @@ alt="Kotlin" width="40" "/> </a>
 <a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://atcoder.jp/users/sb_decoder" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://www.codingninjas.com/codestudio/profile/7c9cdec9-7f01-467b-9f53-3f93d071f24b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgc1xfS5LK7FayIDccjkLFNYUrvJJMAj4DVZzEzybMqVcjz8M3LRCLG-61f-c08icMLd0&usqp=CAU" alt="sowham18" height="40" width="50" /></a>
+
 </p>
 
 ## 🔶 Others 
@@ -90,6 +91,7 @@ alt="Kotlin" width="40" "/> </a>
   <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowham-3098&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowham-3098&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sowham-3098" alt="Sowham-3098" /></a> </p>
