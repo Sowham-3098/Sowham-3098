@@ -94,7 +94,7 @@ alt="Kotlin" width="40" "/> </a>
   
 </a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sowham-3098" alt="Sowham-3098" /></a> </p>
+
 <img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sowham-3098&theme=react-dark" />
 
 [![@sb_decoder's Holopin board](https://holopin.me/sb_decoder)](https://holopin.io/@sb_decoder)
