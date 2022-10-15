@@ -1,9 +1,10 @@
 
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF16TW4w78Mug/profile-displaybackgroundimage-shrink_350_1400/0/1661528605780?e=1671062400&v=beta&t=bSAiyqnllND6Ytq4jnRAl-WaBGyknsLNjNhUU_QaIDo)
+<img width="20%" align="left" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Sowham Bhuin</h1>
 
-<h1 align="center">Hi 👋, I'm Sowham Bhuin</h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer+From+India;An+Aspiring+Web+Developer+From+India">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;A+Newbie+Android+Developer;Graphic+Designer;Open+Source+Contributor">
 </div >
 <h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 <img align="right" alt="Coding" width="400" src="output-onlinegiftools (1).gif"
@@ -22,15 +23,14 @@
 
 <br>
 
-## 🌐 Socials:
+## 🌐 Connect With Me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuinsowham" height="30" width="40" /></a>&nbsp
 <a href="https://linkedin.com/in/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowham bhuin" height="30" width="40" /></a>&nbsp
 <a href="https://www.facebook.com/sowham bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sowham bhuin" height="30" width="40" /></a>&nbsp
-<a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbug_sowham" height="30" width="40" /></a>&nbsp
-<a href="https://www.youtube.com/channel/UCNV7z5JpuflEl8Rtx-IM3gw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creative cam" height="30" width="40" /></a>&nbsp
-<a href="https://discord.gg/Sowham_18#0265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sowham_18#0265" height="30" width="40" /></a>
+<a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbug_sowham" height="30" width="40" /></a>
+
 </p>
 
 
@@ -53,7 +53,7 @@ alt="Kotlin" width="40" "/> </a>
 
 </p>
 
-## 💻 Coding Platforms:
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Coding Platforms:
 <p align="center">
 <a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/sb_decoder?hr_r=1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
@@ -97,4 +97,4 @@ alt="Kotlin" width="40" "/> </a>
 
 <img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sowham-3098&theme=react-dark" />
 
-[![@sb_decoder's Holopin board](https://holopin.me/sb_decoder)](https://holopin.io/@sb_decoder)
+
