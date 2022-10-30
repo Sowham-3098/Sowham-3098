@@ -9,7 +9,7 @@
 </div >
 <h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 
-<img align="right" alt="Coding" width="400" src="output-onlinegiftools (1).gif"/>
+<img align="right" alt="Coding" width="350" src="output-onlinegiftools (1).gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowham-3098&label=Profile%20views&color=0e75b6&style=flat" alt="sowham-3098" /> </p>
 
