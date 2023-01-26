@@ -2,7 +2,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQF16TW4w78Mug/profile-displaybackgroundimage-shrink_350_1400/0/1661528605780?e=1678924800&v=beta&t=3ICktcFQ94e-_ybeLzcTnEkaO1cmv3757ENjrNHeGAE)
 
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Sowham Bhuin</h1>
+<h1 align="center">Hi , I'm Sowham Bhuin</h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;A+Newbie+Android+Developer;Graphic+Designer;Open+Source+Contributor">
