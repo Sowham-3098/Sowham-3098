@@ -51,7 +51,6 @@
 <a href="https://www.canva.com/en" target="_blank" rel="noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Canva-app-logo-768x768.png"
 alt="Canva" width="40" /> </a>&nbsp
 <a href="[https://github.com/](https://www.figma.com/)" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" /> </a>&nbsp
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" /> </a> &nbsp
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS CODE" width="40" /> </a>&nbsp
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMvhyxv6iwrq1nMMDI50GyH2fBG9iljGKBb43SUW9i_Ny0I43FFfsHYaAntSEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"
 alt="Kotlin" width="40" "/> </a> &nbsp
@@ -62,12 +61,12 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 
 # 💻 Coding Platforms:
 <p align="left">
-<a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/S6jZCYEg6IITdHCCOd_1CnOBmzhoC_FL8oMyunTr64o9kxtV_CUYeTgx8epLS2lPmS8=w240-h480-rw" alt="sb_decoder" height="40" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/sb_decoder?hr_r=1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
-<a href="https://codeforces.com/profile/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
-<a href="https://www.leetcode.com/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
-<a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sowham18" height="40" width="40" /></a>&nbsp
-<a href="https://atcoder.jp/users/sb_decoder" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="sowham18" height="40" width="40" /></a>&nbsp
+<a href="https://codeforces.com/profile/sb_decoder" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://www.leetcode.com/sb_decoder" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="sowham18" height="40" width="40" /></a>&nbsp
+<a href="https://atcoder.jp/users/sb_decoder" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/7151918?s=280&v=4" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://www.codingninjas.com/codestudio/profile/7c9cdec9-7f01-467b-9f53-3f93d071f24b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgc1xfS5LK7FayIDccjkLFNYUrvJJMAj4DVZzEzybMqVcjz8M3LRCLG-61f-c08icMLd0&usqp=CAU" alt="sowham18" height="40" width="50" /></a>
 </p>
 
