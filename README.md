@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-🔭 I’m Currently learning DSA , Kotlin , Web Dev.<br>
+🔭 I’m Currently learning DSA only.<br>
 🌱 I’m currently Exploring Open Source Contribution.<br>
 📫 How to reach me: sb2517@it.jgec.ac.in <br>
 😄 Pronouns: He/His<br>
