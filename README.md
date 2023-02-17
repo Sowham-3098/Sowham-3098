@@ -128,26 +128,27 @@ alt="Kotlin" width="40" "/> </a> &nbsp
   <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowham-3098&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowham-3098&layout=compact&langs_count=8&theme=merko"/>
-   <img align="center" height="200em" src="https://github-profile-trophy.vercel.app/?username=Sowham-3098&theme=gruvbox&column=8&margin-w=5&margin-h=5"/>
-</a>
   
+</a>
+ </p>
 
-</p>
- 
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sowham-3098&theme=merko" />
+# 🏆Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sowham-3098&theme=gruvbox&column=7)](https://github.com/Sowham-3098/github-profile-trophy)
 
+# Open-Source Participation
+<div align="center">
+ <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" height="150px">&nbsp
+ <img src="https://www.hacksquad.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsticker.7771700c.jpg&w=750&q=75" height="150px">&nbsp
+  <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/dacd43e0259b415c89e93254e0bd7ff3/assets/cover/670.png" height="150px">&nbsp
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/JWOC%20Logo%20Final.png" height="150px">
+ </div>
 
 ## Hacktoberfest 2022
 [![@sbdecoder's Holopin board](https://holopin.me/sbdecoder)](https://holopin.io/@sbdecoder)
 
 
-<img width="20%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 
-
-
-
-
-
+<h1><img width="25%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" /></h1>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
