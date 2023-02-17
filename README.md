@@ -133,17 +133,26 @@ alt="Kotlin" width="40" "/> </a> &nbsp
  </p>
 
 # 🏆Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sowham-3098&theme=gruvbox&column=7)](https://github.com/Sowham-3098/github-profile-trophy)
+<p align = "center">
+	<img src = "https://github-profile-trophy.vercel.app/?username=Sowham-3098&theme=gruvbox&column=7" alt = "Github Trophy"/>
+</p>
 
-# Open-Source Participation
+
+# 🐍 A Snake Eating my Contributions Graph
+<p align = "center">
+	<img src = "https://github.com/Sowham-3098/Sowham-3098/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
+<!-- # Open-Source Participation
 <div align="center">
  <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" height="150px">&nbsp
  <img src="https://www.hacksquad.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsticker.7771700c.jpg&w=750&q=75" height="150px">&nbsp
   <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/dacd43e0259b415c89e93254e0bd7ff3/assets/cover/670.png" height="150px">&nbsp
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/JWOC%20Logo%20Final.png" height="150px">
- </div>
+ </div> -->
 
-## Hacktoberfest 2022
+# Hacktoberfest 2022
 [![@sbdecoder's Holopin board](https://holopin.me/sbdecoder)](https://holopin.io/@sbdecoder)
 
 
