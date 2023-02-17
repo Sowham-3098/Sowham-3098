@@ -24,18 +24,54 @@
 ⚡ Fun fact: Zero Knowledge of Coding before College Admission.
 
 
-# 🌐 Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+# 🌐 Socials :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="bhuinsowham" height="40" width="40" /></a>&nbsp
 <a href="https://linkedin.com/in/sowham bhuin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sowham bhuin" height="40" width="40" /></a>&nbsp
 <a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="shutterbug_sowham" height="40" width="40" /></a>&nbsp
 <a href="https://discord.gg/Sowham_18#0265" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Sowham_18#0265" height="40" width="40" /></a>
+</p> -->
+<p align="left">
+<a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="bhuinsowham" height="30"  /></a>&nbsp
+<a href="https://linkedin.com/in/sowham bhuin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sowham bhuin" height="30" /></a>&nbsp
+<a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shutterbug_sowham" height="30"  /></a>&nbsp
+<a href="https://discord.gg/MoonKnight#0265" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="MoonKnight#0265" height="30"  /></a>
 </p>
 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack:
-<p align="left"> 
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+	![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+ 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+# 🎨 Desiging Stacks
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+
+<!-- ................................................................................................................................................... -->
+<!-- <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" /> </a> &nbsp
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" /> </a> &nbsp 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" /> </a>&nbsp
@@ -54,12 +90,10 @@ alt="Canva" width="40" /> </a>&nbsp
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS CODE" width="40" /> </a>&nbsp
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMvhyxv6iwrq1nMMDI50GyH2fBG9iljGKBb43SUW9i_Ny0I43FFfsHYaAntSEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"
 alt="Kotlin" width="40" "/> </a> &nbsp
- <a href="https://sparkar.facebook.com/ar-studio/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a" alt="Spark AR" width="40"/> </a>&nbsp
-
-
-</p>
-
-# 💻 Coding Platforms:
+ <a href="https://sparkar.facebook.com/ar-studio/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a" alt="Spark AR" width="40"/> </a>&nbsp </p>
+ -->
+<!-- ............................................................................................................................................  -->
+<!-- # 💻 Coding Platforms:
 <p align="left">
 <a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/S6jZCYEg6IITdHCCOd_1CnOBmzhoC_FL8oMyunTr64o9kxtV_CUYeTgx8epLS2lPmS8=w240-h480-rw" alt="sb_decoder" height="40" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/sb_decoder?hr_r=1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
@@ -68,8 +102,18 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 <a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://atcoder.jp/users/sb_decoder" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/7151918?s=280&v=4" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://www.codingninjas.com/codestudio/profile/7c9cdec9-7f01-467b-9f53-3f93d071f24b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgc1xfS5LK7FayIDccjkLFNYUrvJJMAj4DVZzEzybMqVcjz8M3LRCLG-61f-c08icMLd0&usqp=CAU" alt="sowham18" height="40" width="50" /></a>
-</p>
+</p> -->
 
+ # 💻 Coding Platforms:
+<p align="left">
+<a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="sb_decoder" height="30" /></a>&nbsp
+<a href="https://www.hackerrank.com/sb_decoder?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sowham18" height="30" /></a>&nbsp
+<a href="https://codeforces.com/profile/sb_decoder" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="sb_decoder" height="30" /></a>&nbsp
+<a href="https://www.leetcode.com/sb_decoder" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sb_decoder" height="30" /></a>&nbsp
+<a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="sowham18" height="30" /></a>&nbsp
+<a href="https://atcoder.jp/users/sb_decoder" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV58dHnOAFPRszCleY4FukcHwOu_MyP9r3nxbI0eWx_tOT5cj_F37_XbaOs6dw0wPvwg&usqp=CAU" alt="sowham18" height="30" /></a>&nbsp
+<a href="https://www.codingninjas.com/codestudio/profile/7c9cdec9-7f01-467b-9f53-3f93d071f24b" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="sowham18" height="30" /></a>
+</p>
 
 
 
