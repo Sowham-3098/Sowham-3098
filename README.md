@@ -51,14 +51,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-	![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
- 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 # 🎨 Desiging Stacks
@@ -124,17 +124,18 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 # ⚙️ &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/Sowham-3098">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sowham-3098&theme=react" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sowham-3098&theme=merko" />
   <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowham-3098&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowham-3098&layout=compact&langs_count=8&theme=algolia"/>
-   <img align="center" height="200em" src="https://github-profile-trophy.vercel.app/?username=Sowham-3098&theme=onedark&column=8&margin-w=5&margin-h=5"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowham-3098&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowham-3098&layout=compact&langs_count=8&theme=merko"/>
+   <img align="center" height="200em" src="https://github-profile-trophy.vercel.app/?username=Sowham-3098&theme=gruvbox&column=8&margin-w=5&margin-h=5"/>
 </a>
   
 
 </p>
  
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sowham-3098&theme=react-dark" />
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sowham-3098&theme=merko" />
+
 
 ## Hacktoberfest 2022
 [![@sbdecoder's Holopin board](https://holopin.me/sbdecoder)](https://holopin.io/@sbdecoder)
