@@ -138,11 +138,6 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 </p>
 
 
-# 🐍 A Snake Eating my Contributions Graph
-<p align = "center">
-	<img src = "https://github.com/Sowham-3098/Sowham-3098/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 
 <!-- # Open-Source Participation
 <div align="center">
