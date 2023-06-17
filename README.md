@@ -17,8 +17,8 @@
 
 
 # 💫 About Me:
-🔭 I’m Currently learning DSA only.<br>
-🌱 I’m currently Exploring Open Source Contribution.<br>
+🔭 I’m Currently leraning Augmented Reality.<br>
+🌱 I’m currently exploring Open Source Contribution.<br>
 📫 How to reach me: sb2517@it.jgec.ac.in <br>
 😄 Pronouns: He/His<br>
 ⚡ Fun fact: Zero Knowledge of Coding before College Admission.
