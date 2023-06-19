@@ -1,5 +1,6 @@
 
-![MasterHead](https://github.com/Sowham-3098/Sowham-3098/blob/main/SB.png)
+
+![SB](https://github.com/Sowham-3098/Sowham-3098/assets/95470604/4e14b11c-472d-4979-a9fd-5177660d42be)
 
 
 <h1 align="center">Hi , I'm Sowham Bhuin</h1>
