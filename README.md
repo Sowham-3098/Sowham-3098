@@ -18,7 +18,7 @@
 
 
 # 💫 About Me:
-🔭 I’m Currently leraning Augmented Reality.<br>
+<!--🔭 I’m Currently leraning Augmented Reality.<br>-->
 🌱 I’m currently exploring Open Source Contribution.<br>
 📫 How to reach me: sb2517@it.jgec.ac.in <br>
 😄 Pronouns: He/His<br>
