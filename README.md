@@ -6,7 +6,7 @@
 <h1 align="center">Hi , I'm Sowham Bhuin</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Blockchain+Developer;Graphic+Designer;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;React+Native+Android+Developer;Graphic+Designer;Open+Source+Contributor">
 </div >
 <h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 
