@@ -19,8 +19,8 @@
 
 # 💫 About Me:
 <!--🔭 I’m Currently leraning Augmented Reality.<br>-->
-🌱 I’m currently exploring Open Source Contribution.<br>
-📫 How to reach me: sb2517@it.jgec.ac.in <br>
+🌱 I’m currently looking for job opportunities.<br>
+📫 How to reach me: sowhambhuin.code@gmail.com <br>
 😄 Pronouns: He/His<br>
 ⚡ Fun fact: Zero Knowledge of Coding before College Admission.
 
@@ -43,7 +43,7 @@
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,c,cpp,html,css,js,git,github,md,matlab,mysql,py,react,svelte,latex,firebase,redux,tailwind,ts,tensorflow,unity,vscode,nodejs,npm,postgres,prisma,vite,appwrite,anaconda&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,c,cpp,html,css,js,git,github,md,mysql,py,react,svelte,latex,firebase,redux,tailwind,ts,tensorflow,unity,vscode,nodejs,npm,postgres,vite,appwrite,anaconda&theme=light)](https://skillicons.dev)
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
