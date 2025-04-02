@@ -3,15 +3,14 @@
 <h1 align="center">Hi , I'm Sowham Bhuin</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;React+Native+Android+Developer;Graphic+Designer;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Competitive+Programmer;React+Native+Android+Developer;Graphic+Designer;AI+ML+Enthusiast">
 </div >
 <h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 
-<img align="right" alt="Coding" width="350" src="output-onlinegiftools (1).gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowham-3098&label=Profile%20views&color=0e75b6&style=flat" alt="sowham-3098" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/sowham-bhuin/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Sowham Bhuin" width="150" height="30" /></a> </p>
+
 
 
 # 💫 About Me:
@@ -57,13 +56,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
 
-# 🎨 Desiging Stacks
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<!--![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)-->
+
 
 
 
@@ -114,7 +107,13 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 </p>
 
 
-
+# 🎨 Desiging Stacks
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!--![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)-->
 
 
 
