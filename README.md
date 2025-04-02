@@ -1,7 +1,4 @@
-
-
-![SB](https://github.com/Sowham-3098/Sowham-3098/assets/95470604/4e14b11c-472d-4979-a9fd-5177660d42be)
-
+<img width="1500" alt="github_header (1)" src="https://github.com/user-attachments/assets/c85ef988-2e3a-4d95-926a-3170f16b0125" />
 
 <h1 align="center">Hi , I'm Sowham Bhuin</h1>
 
